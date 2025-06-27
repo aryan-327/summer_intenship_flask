@@ -1,2 +1,2 @@
 # summer_intenship_flask
-summer internship 2025
+"A beginner-friendly Flask To-Do app with SQLite and Dark Mode"
